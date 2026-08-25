@@ -39,7 +39,7 @@ const CATEGORIES = [
     name: "Prince Charming Chronicles",
     short: "Prince Charming",
     code: "PC",
-    blurb: "Evidence gathered from the years when he was, allegedly, devastating."
+    blurb: "Evidence gathered from the years when he was, allegedly, well-liked by women."
   },
   {
     id: "travel",
