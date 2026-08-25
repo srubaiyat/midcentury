@@ -174,7 +174,7 @@ const MEMORIES = [
     category: "travel",
     title: "Kashmir",
     text: "Munez was scared to go into the snow, but not for long with Papa!",
-    images: []
+    images: ["./images/kashmir.png"]
   },
   {
     category: "travel",
