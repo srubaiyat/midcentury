@@ -413,6 +413,11 @@ const MEMORIES = [
     category: "friendship", type: "voice",
     who: "Deep",
     quote: "We used to always go and get chow mein, and one day it was bad, and we couldn't get a refund. So we mixed all of sauces together to make a horrible sauce for everyone who wanted to get food from there later."
+  },
+  {
+    category: "friendship", type: "voice",
+    who: "Deep",
+    quote: "In our school days, Mainul would come in the evening the day before the exam and say he had not started anything. We were overwhelmed with the bulk of work. He used to take my notes/books and said he would just start and do a photocopy. We were literally shocked to hear him say that. But eventually, when results came out, he scored more than us in those exams!"
   }
 
 ];
