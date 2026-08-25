@@ -34,7 +34,7 @@
   --gate: 16vh;             /* how deep the top/bottom shadow reaches   */
   --gate-strength: .92;     /* how black that shadow gets (0 – 1)       */
   --vignette: .55;          /* corner darkening (0 = none)              */
-  --dim: .20;               /* opacity of far-away memories (0 – 1)     */
+  --dim: .50;               /* opacity of far-away memories (0 – 1)     */
   --dim-bright: .62;        /* brightness of far-away memories (0 – 1)  */
   --defocus-blur: 3px;      /* blur on far-away memories (0 = none)     */
 }
