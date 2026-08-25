@@ -20,6 +20,11 @@
   var PAGE_TOTAL = null;
   var FOCUS_SPAN = 0.72;
 
+  /* SHOW_PLACEHOLDERS: what to do with a memory that has no photograph yet.
+     false = show just the words, as a quiet typographic page (the default).
+     true  = draw an empty brass frame reading "Photograph pending".        */
+  var SHOW_PLACEHOLDERS = false;
+
   var stream    = document.getElementById("stream");
   var stage     = document.getElementById("stage");
   var railList  = document.getElementById("rail-list");
@@ -153,6 +158,7 @@
       (item.images && item.images.length > 1 ? " memory__plate--pair" : ""));
 
     if (!item.images || item.images.length === 0) {
+      if (!SHOW_PLACEHOLDERS) return null;      // no photo, no frame, no fuss
       var frame = make("div", "memory__frame");
       frame.appendChild(make("span", null,
         item.pending ? "Awaiting the story" : "Photograph pending"));
@@ -179,7 +185,10 @@
     var s = scene("memory" + (item.pending ? " memory--pending" : ""), cat.id);
 
     s._body.appendChild(folio());
-    s._body.appendChild(photoPlate(item));
+
+    var plate = photoPlate(item);
+    if (plate) s._body.appendChild(plate);
+    else s.classList.add("memory--textonly");
 
     var label = make("div", "memory__label reveal");
     label.appendChild(make("p", "memory__code", cat.code + " · " + code));
