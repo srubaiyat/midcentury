@@ -400,7 +400,7 @@ const MEMORIES = [
     category: "friendship", type: "voice",
     who: "Sundari",
     quote: "There shall never be born any human again who can make your biryani (all of your cooking, but special mention to your biryani for obvious reasons), God really blessed us with you \ud83d\ude4f\ud83c\udffb",
-    images: ["./images/munez.jpg"]
+    images: ["./images/munez.png"]
   },
   {
     category: "friendship", type: "voice",
