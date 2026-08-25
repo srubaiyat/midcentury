@@ -420,6 +420,16 @@ const MEMORIES = [
   },
   {
     category: "friendship", type: "voice",
+    who: "Rupa",
+    quote: "When me and my cousins were hanging out, Mainul accidentally spilled some milk and then Abba came in and asked who spilled it, Mainul chanelled all his acting ability to give my cousin an angered look and successfully avoided Abba's wrath.",
+  },
+  {
+    category: "friendship", type: "voice",
+    who: "Lisa",
+    quote: "We lived on the third floor, but we could recognize Abba's footsteps from the ground floor, so we could quickly turn off the TV and get our books out to pretend we were studying.",
+  },
+  {
+    category: "friendship", type: "voice",
     who: "Bodhi",
     quote: "He always had a nice, welcoming smile on his face.",
     images: ["./images/bodhi.png"]
