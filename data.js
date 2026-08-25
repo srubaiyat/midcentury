@@ -386,16 +386,6 @@ const MEMORIES = [
 
   {
     category: "friendship", type: "voice",
-    who: "Ishani",
-    quote: "Through a deep sympathy, he understands what you need and creates a beautiful reality around you."
-  },
-  {
-    category: "friendship", type: "voice",
-    who: "Bodhi",
-    quote: "He always had a nice, welcoming smile on his face."
-  },
-  {
-    category: "friendship", type: "voice",
     who: "Sundari",
     quote: "There shall never be born any human again who can make your biryani (all of your cooking, but special mention to your biryani for obvious reasons), God really blessed us with you \ud83d\ude4f\ud83c\udffb"
   },
@@ -418,7 +408,17 @@ const MEMORIES = [
     category: "friendship", type: "voice",
     who: "Indra",
     quote: "In our school days, Mainul would come in the evening the day before the exam and say he had not started anything. We were overwhelmed with the bulk of work. He used to take my notes/books and said he would just start and do a photocopy. We were literally shocked to hear him say that. But eventually, when results came out, he scored more than us in those exams!"
-  }
+  },
+  {
+    category: "friendship", type: "voice",
+    who: "Ishani",
+    quote: "Through a deep sympathy, he understands what you need and creates a beautiful reality around you."
+  },
+  {
+    category: "friendship", type: "voice",
+    who: "Bodhi",
+    quote: "He always had a nice, welcoming smile on his face."
+  },
 
 ];
 
