@@ -416,7 +416,7 @@ const MEMORIES = [
   },
   {
     category: "friendship", type: "voice",
-    who: "Deep",
+    who: "Indra",
     quote: "In our school days, Mainul would come in the evening the day before the exam and say he had not started anything. We were overwhelmed with the bulk of work. He used to take my notes/books and said he would just start and do a photocopy. We were literally shocked to hear him say that. But eventually, when results came out, he scored more than us in those exams!"
   }
 
