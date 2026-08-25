@@ -156,7 +156,7 @@ const MEMORIES = [
     category: "travel",
     title: "South Africa",
     text: "He arranged his business trip to coincide with my global competition round and took me to Cape Town so we could visit the southernmost tip of Africa together.",
-    images: []
+    images: ["./images/durban.png"]
   },
   {
     category: "travel",
@@ -180,7 +180,7 @@ const MEMORIES = [
     category: "travel",
     title: "Macau and Hong Kong",
     text: "After not seeing me in real life for 6 years, we met in Macau and Hong Kong while I was there for a conference — because apparently we're incapable of coordinating a trip aside from when I travel for work.",
-    images: []
+    images: ["./images/macau.png"]
   },
   {
     category: "travel",
