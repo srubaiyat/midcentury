@@ -140,7 +140,7 @@ const MEMORIES = [
     category: "prince",
     title: "The absent proposal",
     text: "His father proposed to Mom on his behalf while Mom was visiting their house. Meanwhile, he was apparently in the bathroom, completely uninvolved in his own proposal.",
-    images: ["./images/the-absent-proposal.png"]
+    images: []
   },
 
 
@@ -168,7 +168,7 @@ const MEMORIES = [
     category: "travel",
     title: "Darjeeling",
     text: "His favorite destination — and apparently one he loved enough to visit almost every weekend.",
-    images: []
+    images: ["./images/darjeiling.png"]
   },
   {
     category: "travel",
