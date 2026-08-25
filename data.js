@@ -387,7 +387,8 @@ const MEMORIES = [
   {
     category: "friendship", type: "voice",
     who: "Sundari",
-    quote: "There shall never be born any human again who can make your biryani (all of your cooking, but special mention to your biryani for obvious reasons), God really blessed us with you \ud83d\ude4f\ud83c\udffb"
+    quote: "There shall never be born any human again who can make your biryani (all of your cooking, but special mention to your biryani for obvious reasons), God really blessed us with you \ud83d\ude4f\ud83c\udffb",
+    images: ["./images/munez.jpg"]
   },
   {
     category: "friendship", type: "voice",
@@ -397,7 +398,8 @@ const MEMORIES = [
   {
     category: "friendship", type: "voice",
     who: "Ishita",
-    quote: "He is always taking care of his family/friends' parents."
+    quote: "He is always taking care of his family/friends' parents.",
+    images: ["./images/bumma.png", "./images/mammam.png"]
   },
   {
     category: "friendship", type: "voice",
@@ -407,7 +409,8 @@ const MEMORIES = [
   {
     category: "friendship", type: "voice",
     who: "Indra",
-    quote: "In our school days, Mainul would come in the evening the day before the exam and say he had not started anything. We were overwhelmed with the bulk of work. He used to take my notes/books and said he would just start and do a photocopy. We were literally shocked to hear him say that. But eventually, when results came out, he scored more than us in those exams!"
+    quote: "In our school days, Mainul would come in the evening the day before the exam and say he had not started anything. We were overwhelmed with the bulk of work. He used to take my notes/books and said he would just start and do a photocopy. We were literally shocked to hear him say that. But eventually, when results came out, he scored more than us in those exams!",
+    images: ["./images/dadu_kaku.png"]
   },
   {
     category: "friendship", type: "voice",
@@ -419,7 +422,7 @@ const MEMORIES = [
     category: "friendship", type: "voice",
     who: "Bodhi",
     quote: "He always had a nice, welcoming smile on his face.",
-   images: ["./images/mountain-lion.jpg"]
+    images: ["./images/bodhi.png"]
   },
 
 ];
