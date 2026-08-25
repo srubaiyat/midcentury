@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>50 Years of Mainul Islam</title>
+<meta name="description" content="A scrapbook, an exhibit and a slightly chaotic family archive, assembled for Mainul Islam's fiftieth birthday.">
+<meta name="theme-color" content="#0A0908">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..700,0..100,0..1;1,9..144,300..700,0..100,0..1&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,300..700;1,300..600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="./style.css">
+</head>
+<body class="is-hero no-js">
+
+<a class="skip-link" href="#stream">Skip to the memories</a>
+
+<!-- ============ VIEWPORT-LEVEL CINEMATIC MASK (fixed, never scrolls) ===== -->
+<div class="filmgate" aria-hidden="true">
+  <div class="filmgate__top"></div>
+  <div class="filmgate__bottom"></div>
+  <div class="filmgate__edges"></div>
+  <div class="filmgate__grain"></div>
+</div>
+
+<!-- ============================== HERO ================================== -->
+<header class="hero" id="hero">
+  <div class="hero__inner">
+    <p class="hero__eyebrow" id="hero-eyebrow">The Archive</p>
+    <h1 class="hero__title">
+      <span class="hero__headline" id="hero-headline">50 Years of</span>
+      <span class="hero__name" id="hero-name">Mainul Islam</span>
+    </h1>
+    <p class="hero__years" id="hero-years">1976 — 2026</p>
+    <button class="enter" id="enter" type="button">
+      <span class="enter__label" id="enter-label">Enter the chronicles</span>
+      <span class="enter__rule" aria-hidden="true"></span>
+    </button>
+    <p class="hero__index" id="hero-index"></p>
+  </div>
+</header>
+
+<!-- ============================== STAGE ================================= -->
+<div class="stage" id="stage">
+
+  <!-- LEFT: category timeline -->
+  <nav class="rail" id="rail" aria-label="Chapters">
+    <div class="rail__inner">
+      <p class="rail__caption" aria-hidden="true">Chapters</p>
+      <div class="rail__track">
+        <span class="rail__line" aria-hidden="true"><i class="rail__fill" id="rail-fill"></i></span>
+        <ol class="rail__list" id="rail-list"></ol>
+      </div>
+      <p class="rail__meta" id="rail-meta" aria-hidden="true"></p>
+    </div>
+  </nav>
+
+  <!-- RIGHT: the stream of memories, built from data.js -->
+  <main class="stream" id="stream" tabindex="-1"></main>
+
+</div>
+
+<!-- ============================== CODA ================================== -->
+<footer class="coda" id="coda">
+  <p class="coda__line" id="coda-line"></p>
+  <p class="coda__sign" id="coda-sign"></p>
+  <button class="coda__top" id="back-to-top" type="button">Back to the beginning</button>
+</footer>
+
+<script src="./data.js"></script>
+<script src="./script.js"></script>
+</body>
+</html>
