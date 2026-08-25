@@ -190,6 +190,12 @@ const MEMORIES = [
   },
   {
     category: "travel",
+    title: "The Digha Disaster",
+    text: "Spontaneous decision to go to Digha, and they drove all night. On the way back, Mainul pees on a tree near the roadside, realizing only after driving away that his earbuds, so they drive all the way back to the wet tree trunk. They found themselves searching for earbuds around a pee-wet tree trunk until facing defeat, and their proximity to nature's toilet was likely for naught. ",
+    images: ["./images/the-digha-disaster.jpg"]
+  },
+  {
+    category: "travel",
     title: "The Ghatsila disaster",
     text: "They took a cheap trip to Ghatsila, Jharkhand, and checked into an equally cheap hotel. They arrived late at night and went to eat at the restaurant, but the lights suddenly went out. They kept eating in the darkness, only to discover when the lights came back on that there were cockroaches everywhere. Less than an hour later, they were on a train trying to escape back to Kolkata.",
     images: ["./images/ghatsila-disaster.webp"]
