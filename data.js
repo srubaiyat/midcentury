@@ -142,6 +142,12 @@ const MEMORIES = [
     text: "His father proposed to Mom on his behalf while Mom was visiting their house. Meanwhile, he was apparently in the bathroom, completely uninvolved in his own proposal.",
     images: ["./images/absent-proposal.png"]
   },
+  {
+    category: "prince",
+    title: "The Waiter Charmer",
+    text: "He can charm people very easily, and this is particularly noticeable with waiters; they basically fall in love with him and do whatever he wants... - Sundari",
+    images: []
+  },
 
 
   /* ========================= TRAVEL CHRONICLES ========================== */
@@ -163,6 +169,12 @@ const MEMORIES = [
     title: "The cross-country road trip",
     text: "He drove across the United States to show Mom Native American reservations, buy Indigenous jewelry, visit Mount Rushmore, and see the Crazy Horse Memorial — after gaining freedom from sending me to India alone for the summer.",
     images: []
+  },
+  {
+    category: "travel",
+    title: "Kashmir",
+    text: "Munez was scared to go into the snow, but not for long with Papa!",
+    images: ["./images/kasmhir.png"]
   },
   {
     category: "travel",
