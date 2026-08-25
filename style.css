@@ -31,7 +31,7 @@
   /* ---- READABILITY DIALS -------------------------------------------------
      Everything about how dark the page gets is controlled from right here.
      Lower numbers = less shadow, easier reading. Raise them for more drama. */
-  --gate: 26vh;             /* how deep the top/bottom shadow reaches   */
+  --gate: 16vh;             /* how deep the top/bottom shadow reaches   */
   --gate-strength: .92;     /* how black that shadow gets (0 – 1)       */
   --vignette: .55;          /* corner darkening (0 = none)              */
   --dim: .20;               /* opacity of far-away memories (0 – 1)     */
