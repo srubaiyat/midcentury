@@ -140,7 +140,7 @@ const MEMORIES = [
     category: "prince",
     title: "The absent proposal",
     text: "His father proposed to Mom on his behalf while Mom was visiting their house. Meanwhile, he was apparently in the bathroom, completely uninvolved in his own proposal.",
-    images: []
+    images: ["./images/absent-proposal.png"]
   },
 
 
@@ -412,12 +412,14 @@ const MEMORIES = [
   {
     category: "friendship", type: "voice",
     who: "Ishani",
-    quote: "Through a deep sympathy, he understands what you need and creates a beautiful reality around you."
+    quote: "Through a deep sympathy, he understands what you need and creates a beautiful reality around you.",
+    images: ["./images/ishani.jpg"]
   },
   {
     category: "friendship", type: "voice",
     who: "Bodhi",
-    quote: "He always had a nice, welcoming smile on his face."
+    quote: "He always had a nice, welcoming smile on his face.",
+   images: ["./images/mountain-lion.jpg"]
   },
 
 ];
