@@ -335,7 +335,7 @@ const MEMORIES = [
     category: "fatherhood",
     title: "The permanent third wheel",
     text: "He used to bring me along on his dates with Mom, making me the ultimate third wheel.",
-    images: []
+    images: ["./images/third-wheel.png"]
   },
   {
     category: "fatherhood",
