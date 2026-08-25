@@ -356,7 +356,7 @@ const MEMORIES = [
     category: "fatherhood",
     title: "The water cycle",
     text: "I first learned about the water cycle because he explained it to me while bathing me, using the steam from the warm bath and the fog on the mirror to explain what was happening.",
-    images: []
+    images: ["./images/water-cycle.png"]
   },
   {
     category: "fatherhood",
