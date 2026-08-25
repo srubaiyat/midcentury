@@ -150,7 +150,7 @@ const MEMORIES = [
     category: "travel",
     title: "Everest",
     text: "While trekking toward Everest Base Camp — notably during the earthquakes — someone grew some common sense and was ready to give up. He walked them back to his brand of insanity and motivated them all the way to Base Camp.",
-    images: []
+    images: ["./images/everest.png"]
   },
   {
     category: "travel",
