@@ -348,12 +348,6 @@ const MEMORIES = [
   },
   {
     category: "fatherhood",
-    title: "The Grand Canyon",
-    text: "When I went to the Grand Canyon, I wanted to walk down to the bottom on the shallow end, but I was too shy to ask. Then, when we drove over to the deep end the next day, it was too late. I started crying because I had missed my chance to go down into the canyon just because I was shy. But Papa decided to take me as deep down into the Grand Canyon as far as I could go until I felt better, and then come back up with me.",
-    images: []
-  },
-  {
-    category: "fatherhood",
     title: "The California wildfires",
     text: "We were caught in the California wildfires, and instead of seeing it as fleeing from a natural disaster, Papa saw it as an impromptu holiday — arranging for us to stay in a beautiful little cottage in a gorgeous vineyard by a lake.",
     images: ["./images/wild-fire.png"]
