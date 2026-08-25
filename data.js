@@ -200,22 +200,6 @@ const MEMORIES = [
     text: "They took a cheap trip to Ghatsila, Jharkhand, and checked into an equally cheap hotel. They arrived late at night and went to eat at the restaurant, but the lights suddenly went out. They kept eating in the darkness, only to discover when the lights came back on that there were cockroaches everywhere. Less than an hour later, they were on a train trying to escape back to Kolkata.",
     images: ["./images/ghatsila-disaster.webp"]
   },
-  {
-    category: "travel",
-    title: "London",
-    text: "Story pending. This one hasn't been collected yet — replace this text in data.js when you have it.",
-    pending: true,
-    images: []
-  },
-  {
-    category: "travel",
-    title: "Portugal",
-    text: "This is the place in Portugal where Se\u00f1orita was filmed.",
-    aside: "More detail pending — replace this in data.js when you have it.",
-    pending: true,
-    images: []
-  },
-
 
   /* ================================ TRIVIA ============================== */
   /*
