@@ -203,7 +203,7 @@ const MEMORIES = [
   {
     category: "travel",
     title: "The Digha Disaster",
-    text: "Spontaneous decision to go to Digha, and they drove all night. On the way back, Mainul pees on a tree near the roadside, realizing only after driving away that his earbuds, so they drive all the way back to the wet tree trunk. They found themselves searching for earbuds around a pee-wet tree trunk until facing defeat, and their proximity to nature's toilet was likely for naught. ",
+    text: "Spontaneous decision to go to Digha, and they drove all night. On the way back, Mainul pees on a tree near the roadside, realizing only after driving away that his earbuds were no longer with him, so they drive all the way back to the wet tree trunk. They found themselves searching for earbuds around a pee-wet tree trunk until facing defeat, and their proximity to nature's toilet was likely for naught. ",
     images: ["./images/the-digha-disaster.jpg"]
   },
   {
