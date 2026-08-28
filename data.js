@@ -444,7 +444,7 @@ const MEMORIES = [
     category: "friendship", type: "voice",
     who: "Saswata",
     quote: "A fitness freak, fantastic chef, legendary host, and of course, our very own Kublai Khan.",
-    images: ["./images/bodhi.png"]
+    images: []
   },
 
 ];
