@@ -442,8 +442,8 @@ const MEMORIES = [
   },
   {
     category: "friendship", type: "voice",
-    who: "Bodhi",
-    quote: "He always had a nice, welcoming smile on his face.",
+    who: "Saswata",
+    quote: "A fitness freak, fantastic chef, legendary host, and of course, our very own Kublai Khan.",
     images: ["./images/bodhi.png"]
   },
 
