@@ -133,7 +133,7 @@ const MEMORIES = [
   {
     category: "prince",
     title: "Three friends, one crush",
-    text: "Three girls who were among each other's closest friends all fell for him when he came to study Physics Honours at Scottish Church College.",
+    text: "Three girls who were among each other's closest friends all fell for him at university.",
     images: ["./images/three-friends-one-crush.png"]
   },
   {
